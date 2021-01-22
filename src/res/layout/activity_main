@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<RelativeLayout android:layout_height="-1" android:layout_width="-1" android:background="res/drawable-v24/snap.jpg" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+<TextView android:layout_height="-2" android:layout_width="-2" app:layout_constraintTop_toTopOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintBottom_toBottomOf="0" android:layout_alignParentBottom="true" android:layout_alignParentRight="true" android:layout_alignParentLeft="true" android:text="Calculator" android:layout_marginBottom="190dp" android:layout_marginRight="-41dp" android:layout_marginLeft="41dp" android:textColor="ffffff" android:textStyle="0x1" android:textSize="36sp"/>
+
+<EditText android:layout_height="-2" android:layout_width="-1" android:id="false"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:text="1" android:id="false" style="{2:16842825}" android:layout_alignRight="false" android:layout_below="false" android:layout_marginTop="94dp"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:text="2" android:id="false" style="{2:16842825}" android:layout_alignTop="false" android:layout_toLeftOf="false"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:text="3" android:id="false" style="{2:16842825}" android:layout_alignTop="false" android:layout_centerHorizontal="true"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:text="4" android:id="false" style="{2:16842825}" android:layout_below="false" android:layout_toLeftOf="false"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:text="5" android:id="false" style="{2:16842825}" android:layout_alignBottom="false" android:layout_alignLeft="false"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:text="6" android:id="false" style="{2:16842825}" android:layout_below="false" android:layout_alignLeft="false"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:text="7" android:id="false" style="{2:16842825}" android:layout_below="false" android:layout_toLeftOf="false"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:text="8" android:id="false" style="{2:16842825}" android:layout_below="false" android:layout_alignLeft="false"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:text="9" android:id="false" style="{2:16842825}" android:layout_below="false" android:layout_alignLeft="false"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:text="+" android:layout_marginLeft="46dp" android:id="false" style="{2:16842825}" android:layout_alignRight="false" android:layout_alignTop="false" android:layout_toRightOf="false"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:text="-" android:id="false" style="{2:16842825}" android:layout_alignRight="false" android:layout_below="false" android:layout_alignLeft="false"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:layout_alignParentRight="true" android:text="*" android:id="false" style="{2:16842825}" android:layout_below="false" android:layout_alignLeft="false"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:text="." android:layout_marginRight="3dp" android:id="false" style="{2:16842825}" android:layout_below="false" android:layout_marginTop="5dp" android:layout_toLeftOf="false"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:text="0" android:layout_marginLeft="3dp" android:id="false" style="{2:16842825}" android:layout_below="false" android:layout_marginTop="2dp" android:layout_alignLeft="false"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:text="C" android:layout_marginLeft="2dp" android:id="false" style="{2:16842825}" android:layout_below="false" android:layout_marginTop="2dp" android:layout_alignLeft="false"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:text="/" android:id="false" style="{2:16842825}" android:layout_alignRight="false" android:layout_below="false" android:layout_alignLeft="false"/>
+
+<Button android:layout_height="-2" android:layout_width="-2" android:text="=" android:layout_marginRight="2dp" android:layout_marginLeft="0dp" android:id="false" android:layout_alignRight="false" android:layout_below="false" android:layout_marginTop="43dp" android:layout_alignLeft="false"/>
+
+</RelativeLayout>
